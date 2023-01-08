@@ -1,2 +1,2 @@
 # TechStart-webapp
-A single page webapp created using HTML, SCSS, JavaScript and React. Fully responsive.
+A webapp complete with animations and hash links. created using HTML, SCSS, JavaScript and React. Fully responsive.
